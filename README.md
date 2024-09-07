@@ -4,7 +4,7 @@
 
 ## Quick start
 
-> Descompacte ou clone o repositório privado. Após obter o código, abra um terminal e navegue até o diretório de trabalho, com o código-fonte do produto.
+> Descompacte ou clone o repositório. Após obter o código, abra um terminal e navegue até o diretório de trabalho, com o código-fonte do produto.
 
 <br />
 
